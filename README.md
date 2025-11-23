@@ -1,4 +1,4 @@
-# 🎮 Video Game Sales Dashboard — Power BI
+# Video Game Sales Dashboard — Power BI
 
 Dashboard desenvolvido para análise das vendas globais da indústria de Video Games utilizando Power BI e o dataset **Video Game Sales** (Kaggle).
 
@@ -6,7 +6,7 @@ O projeto tem como objetivo explorar padrões de vendas por **plataforma**, **g�
 
 ---
 
-## 📊 Visão Geral do Projeto
+## Visão Geral do Projeto
 
 - **Ferramenta utilizada:** Power BI Desktop  
 - **Base de dados:** Video Game Sales (Kaggle)  
@@ -15,7 +15,7 @@ O projeto tem como objetivo explorar padrões de vendas por **plataforma**, **g�
 
 ---
 
-## 🧠 Principais Métricas e Análises
+## Principais Métricas e Análises
 
 - **Vendas Globais Totais**
 - **Quantidade de jogos registrados**
@@ -26,7 +26,7 @@ O projeto tem como objetivo explorar padrões de vendas por **plataforma**, **g�
 
 ---
 
-## 🛠️ Recursos Utilizados
+## Recursos Utilizados
 
 - Segmentadores interativos (Ano, Plataforma, Gênero)
 - KPIs personalizados
@@ -38,7 +38,7 @@ O projeto tem como objetivo explorar padrões de vendas por **plataforma**, **g�
 
 ---
 
-## 📥 Como Executar
+## Como Executar
 
 1. Baixe o arquivo `dashboard-video-games.pbix`
 2. Abra no **Power BI Desktop**
@@ -47,7 +47,7 @@ O projeto tem como objetivo explorar padrões de vendas por **plataforma**, **g�
 
 ---
 
-## 📌 Objetivo Profissional
+## Objetivo Profissional
 
 Este projeto faz parte do meu portfólio como estudante na área de dados, com foco em:
 
